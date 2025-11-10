@@ -1,4 +1,5 @@
 ## Olá a todos, me chamo Matheus Regis, bem-vindo ao meu GitHub👋
+Atualmente sou estudante de Ciência da Computação na UESB
 <!--
 **m4th3usrpb/m4th3usrpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

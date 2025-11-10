@@ -10,7 +10,7 @@ Sobre Mim:
 - 💼 Pretendo um dia ser Analista ou afins
 - 🌱 Tenho experiência em C++,C# e Python
 - 💻 Gostaria de um dia aliar a ciência da computação com o automobilismo(industria e esporte) e aviação   
-- ⚡ Fun fact: Amo Automobilismo,Aviões(Caças),Carros,Caminhões, qualquer coisa que tenha 4 rodas e um motor(sendo um MCI está de bom tamanho)
+- ⚡ Fun fact: Amo Automobilismo,Aviões(Caças),Carros,Caminhões, qualquer coisa que tenha 4 rodas e um motor
 - ⚡ Fun fact 2: Não sou um BMW-Sauber F1 .08
 - ⚡ Fun fact 3: O Airbus A320 é minha aeronave comercial favorita :-)
 

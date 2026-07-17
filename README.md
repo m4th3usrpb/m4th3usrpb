@@ -5,7 +5,7 @@ Se o Git me permitir, vou colocar alguns mods de Euro Truck Simulator 2, Assetto
 
 Sobre Mim:
 - 🔭 Atumente estou estudando e busco um estágio quanto antes ...
-- 🌱 Estou aprenendo Python e C#  ...
+- 🌱 Estou aprenendo Python 
 - 🌎 Sou de Vitória da Conquista - Bahia - Brasil
 - 💼 Pretendo um dia ser Analista ou afins
 - 🌱 Tenho experiência em C++,C# e Python

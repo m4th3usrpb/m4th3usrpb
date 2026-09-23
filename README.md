@@ -4,8 +4,7 @@ Nesse GitHub tem alguns códigos e projetos meus que faço para atender minhas n
 
 
 Sobre Mim:
-- 🔭 Atumente estou estudando e busco um estágio quanto antes ...
-- 🌱 Estou estudando ciência da computação
+- 🔭 Atualmente estou estudando ciência da computação e busco um estágio quanto antes ...
 - 🌎 Sou de Vitória da Conquista - Bahia - Brasil
-- 💼 Pretendo um dia ser Analista ou afins
+- 💼 Pretendo ser um Desenvolvedor Back-end com ênfase em python ou FullStack em Java
 - 🌱 Tenho experiência em C++ e Python

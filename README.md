@@ -1,16 +1,15 @@
 ## Olá a todos, me chamo Matheus Regis, bem-vindo ao meu GitHub👋
 Atualmente sou estudante de Ciência da Computação na UESB(Universidade Estadual do Sudoeste da Bahia),
 Nesse GitHub tem algums projetos meus que eu faço quando estou em tempo livre ou por necessidades acadêmicas.
-Se o Git me permitir, vou colocar alguns mods de Euro Truck Simulator 2, Assetto Corsa e dentre outros...
+
 
 Sobre Mim:
 - 🔭 Atumente estou estudando e busco um estágio quanto antes ...
-- 🌱 Estou aprenendo Python 
+- 🌱 Estou estudando ciência da computação
 - 🌎 Sou de Vitória da Conquista - Bahia - Brasil
 - 💼 Pretendo um dia ser Analista ou afins
-- 🌱 Tenho experiência em C++,C# e Python
-- 💻 Gostaria de um dia aliar a ciência da computação com o automobilismo(industria e esporte) e aviação   
-- ⚡ Fun fact: Amo Automobilismo,Aviões(Caças),Carros,Caminhões, qualquer coisa que tenha 4 rodas e um motor
+- 🌱 Tenho experiência em C++ e Python
+
 
 
 

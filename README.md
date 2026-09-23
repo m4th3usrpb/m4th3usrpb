@@ -1,6 +1,6 @@
 ## Olá a todos, me chamo Matheus Regis, bem-vindo ao meu GitHub👋
 Atualmente sou estudante de Ciência da Computação na UESB(Universidade Estadual do Sudoeste da Bahia),
-Nesse GitHub tem algums projetos meus que eu faço quando estou em tempo livre ou por necessidades acadêmicas.
+Nesse GitHub tem alguns códigos e projetos meus que faço para atender minhas necessidades acadêmicas
 
 
 Sobre Mim:
